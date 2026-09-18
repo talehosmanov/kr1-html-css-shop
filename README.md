@@ -21,3 +21,6 @@
 
 ## Текущий статус 
 Cоздана базовая структура проекта.
+
+## Ссылка на опубликованный проект
+GitHub Pages: https://talehosmanov.github.io/kr1-html-css-shop/
